@@ -1,16 +1,11 @@
-# projeto_v
+Descrição do aplicativo: Projeto "O Canto da Torcida" para gerar frases.
 
-A new Flutter project.
+222100011
+124100036
+122100003
 
-## Getting Started
+![image](https://github.com/Gsvitoria/Gerador_Frases/assets/137222560/3a8a5eb3-97e4-4a40-81f4-2cd3bfd24cf3)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/Gsvitoria/Gerador_Frases/assets/137222560/1397aebc-2a43-4c79-96d3-13c42b83f6af)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Gsvitoria/Gerador_Frases/assets/137222560/683ebb65-3223-437f-b9a9-ddb243a8799c)
