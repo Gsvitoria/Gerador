@@ -1,8 +1,8 @@
 Descrição do aplicativo: Projeto "O Canto da Torcida" para gerar frases.
 
-222100011
-124100036
-122100003
+222100011;
+124100036;
+122100003;
 
 ![image](https://github.com/Gsvitoria/Gerador_Frases/assets/137222560/3a8a5eb3-97e4-4a40-81f4-2cd3bfd24cf3)
 
